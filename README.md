@@ -1,5 +1,6 @@
-# ENG1002 Programming (MATLAB and C) - MATLAB Project - Semester 1 2022
-An incredibly basic roguelike game made in MATLAB. The objective is to collect items and fight enemies for loot until you are strong enough to defeat the Goblin King.
+# MATLAB Project
+
+An incredibly basic roguelike game made in MATLAB for a first-year programming course. The objective is to collect items and fight enemies for loot until you are strong enough to defeat the Goblin King.
 
 The map is randomly generated each time the program is started. A number is assigned to each tile, which is used to determine gameplay events (loot/monster encounters/etc.)
 
